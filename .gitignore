@@ -1,0 +1,7 @@
+.zcompdump
+usercustom/*
+secrets/*
+!secrets/.gitkeep
+conf.d/local/*
+!conf.d/local/.gitkeep
+tmp/
